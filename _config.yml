@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Ziyi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "You can call me tailorbrue."
+  bio              : "Tailorbrue."
   location         : "ChengDu"
   employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
