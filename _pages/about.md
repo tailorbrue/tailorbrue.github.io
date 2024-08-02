@@ -35,7 +35,7 @@ I am an undergraduated student in University of Electronic Science and Technolog
 
 *IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
 
-Tianhao Zhou\*, **Haipeng Li**\*(equal contribution), Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
+Tianhao Zhou\*, Haipeng Li\*, **Ziyi Wang**, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
 
 [Paper](https://arxiv.org/abs/2403.19164) \| Video \| [Code](https://github.com/lhaippp/RecDiffusion) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
