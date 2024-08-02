@@ -26,6 +26,21 @@ I am an undergraduated student in University of Electronic Science and Technolog
 
 # Publications
 
+**2024**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_RecDiffusion/RecDiffusion.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**RecDiffusion: Rectangling for Image Stitching with Diffusion Models**
+
+*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
+
+Tianhao Zhou\*, **Haipeng Li**\*(equal contribution), Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
+
+[Paper](https://arxiv.org/abs/2403.19164) \| Video \| [Code](https://github.com/lhaippp/RecDiffusion) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 
 # Education
 
