@@ -23,6 +23,7 @@ I am an undergraduate student in University of Electronic Science and Technology
 # News
 
 - *2024.02*: &nbsp; One paper is accepted to CVPR 2024.
+- *2024.08*: &nbsp; One paper is in submission to AAAI 2025.
 
 # Publications
 
