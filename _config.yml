@@ -20,7 +20,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ziyi Wang (王子义)\n"
+  name             : "Ziyi Wang"
   avatar           : "images/profile.png"
   bio              : ""
   employer         :
