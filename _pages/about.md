@@ -18,7 +18,7 @@ redirect_from:
 
 # About Me
 
-I am an undergraduate student in University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/).
+I am an undergraduate student in Yingcai Honors College of UESTC, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/).
 
 # News
 
